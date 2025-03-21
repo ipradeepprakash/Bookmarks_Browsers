@@ -3,32 +3,32 @@
 	
 ------ ADMINISTRATION --------
 
-	first Responder kit										https://www.brentozar.com/blog/page/34/
+	first Responder kit					https://www.brentozar.com/blog/page/34/
 	Splitting Up Your Work in Chunks - Erland Sommarskog	https://www.youtube.com/watch?v=fb_3tP435ZA&list=PLoGAcXKPcRva915OeutOXOtFKN19WSL4I&index=76
 
 
 ------ ANALYSIS	-----------
 
-	Advanced SQL Tutorial	https://www.youtube.com/watch?v=vDMehWw11wI&list=PLMT-ZFEXpkZ23IH4toeB1WDGzi8djjGps
-	Approach to Complex SQL Queries	https://www.youtube.com/watch?v=Vy8NRI24aXg
+	Advanced SQL Tutorial			https://www.youtube.com/watch?v=vDMehWw11wI&list=PLMT-ZFEXpkZ23IH4toeB1WDGzi8djjGps
+	Approach to Complex SQL Queries		https://www.youtube.com/watch?v=Vy8NRI24aXg
 	How to analyze SQL server stack dumps	https://www.pythian.com/blog/technical-track/analyze-sql-server-stack-dumps
 
 
 ------- ALWAYS ON ----------
 
-	Always on Availability Groups Using Load Balancer(VNN) and Distributed Network Name(DNN) - https://www.youtube.com/watch?v=UbOI3q3v-Uo
-	AlwaysOn synchronize performance can affect memory?	- https://techcommunity.microsoft.com/blog/sqlserversupport/alwayson-synchronize-performance-can-affect-memory/3380913
-	Common Causes and Troubleshooting Solutions for SQL AG Data Synchronization Latency	- https://techcommunity.microsoft.com/blog/sqlserversupport/common-causes-and-troubleshooting-solutions-for-sql-ag-data-synchronization-late/2963083
-	Configure multiple-subnet AlwaysOn Availability Group by modifying CIB	https://techcommunity.microsoft.com/blog/sqlserversupport/configure-multiple-subnet-alwayson-availability-group-by-modifying-cib/1544838
-	Configure Windows Cluster and SQL Server 2019 Always-ON Availability Group On AZURE VMs Step-By-Step	https://www.youtube.com/watch?v=BeYsHX87WEQ
-	Create a hybrid Distributed Availability Group Between SQL Windows and SQL Linux	https://techcommunity.microsoft.com/blog/sqlserversupport/create-a-hybrid-distributed-availability-group-between-sql-windows-and-sql-linux/1175021
-	Create Distributed Availability Group in Sql Server Linux(Redhat) --- step by step	https://techcommunity.microsoft.com/blog/sqlserversupport/create-distributed-availability-group-in-sql-server-linuxredhat-----step-by-step/1003471
-	Distributed Availability Group configuration on Azure virtual machines (IAAS)	https://www.youtube.com/watch?v=O-jPLenG858
-	How To Configure Domain Independent and Cluster Less Always on Availability Groups in MS SQL Server	https://www.youtube.com/watch?v=HE3HBkZLjQw
-	Password required' when trying to add a database having a 'master key' to AG group	https://techcommunity.microsoft.com/blog/sqlserversupport/password-required-when-trying-to-add-a-database-having-a-master-key-to-ag-group/1029357
-	Setup SQL Server 2016 Always On Distributed Availability Groups	https://www.mssqltips.com/sqlservertip/5053/setup-and-implement-sql-server-2016-always-on-distributed-availability-groups/
-	SQL Server Alwayson primary replica failed to create diagnostics log.	https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-alwayson-primary-replica-failed-to-create-diagnostics-log-/1229920
-	What is causing the Always On AG issue? Is it cluster, AD, DNS, or SQL?	https://techcommunity.microsoft.com/blog/sqlserversupport/what-is-causing-the-always-on-ag-issue-is-it-cluster-ad-dns-or-sql/3781656
+	Always on Availability Groups Using Load Balancer(VNN) and Distributed Network Name(DNN) 		- https://www.youtube.com/watch?v=UbOI3q3v-Uo
+	AlwaysOn synchronize performance can affect memory?							- https://techcommunity.microsoft.com/blog/sqlserversupport/alwayson-synchronize-performance-can-affect-memory/3380913
+	Common Causes and Troubleshooting Solutions for SQL AG Data Synchronization Latency			- https://techcommunity.microsoft.com/blog/sqlserversupport/common-causes-and-troubleshooting-solutions-for-sql-ag-data-synchronization-late/2963083
+	Configure multiple-subnet AlwaysOn Availability Group by modifying CIB					- https://techcommunity.microsoft.com/blog/sqlserversupport/configure-multiple-subnet-alwayson-availability-group-by-modifying-cib/1544838
+	Configure Windows Cluster and SQL Server 2019 Always-ON Availability Group On AZURE VMs Step-By-Step	- https://www.youtube.com/watch?v=BeYsHX87WEQ
+	Create a hybrid Distributed Availability Group Between SQL Windows and SQL Linux			- https://techcommunity.microsoft.com/blog/sqlserversupport/create-a-hybrid-distributed-availability-group-between-sql-windows-and-sql-linux/1175021
+	Create Distributed Availability Group in Sql Server Linux(Redhat) --- step by step			- https://techcommunity.microsoft.com/blog/sqlserversupport/create-distributed-availability-group-in-sql-server-linuxredhat-----step-by-step/1003471
+	Distributed Availability Group configuration on Azure virtual machines (IAAS)				- https://www.youtube.com/watch?v=O-jPLenG858
+	How To Configure Domain Independent and Cluster Less Always on Availability Groups in MS SQL Server	- https://www.youtube.com/watch?v=HE3HBkZLjQw
+	Password required' when trying to add a database having a 'master key' to AG group			- https://techcommunity.microsoft.com/blog/sqlserversupport/password-required-when-trying-to-add-a-database-having-a-master-key-to-ag-group/1029357
+	Setup SQL Server 2016 Always On Distributed Availability Groups						- https://www.mssqltips.com/sqlservertip/5053/setup-and-implement-sql-server-2016-always-on-distributed-availability-groups/
+	SQL Server Alwayson primary replica failed to create diagnostics log.					- https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-alwayson-primary-replica-failed-to-create-diagnostics-log-/1229920
+	What is causing the Always On AG issue? Is it cluster, AD, DNS, or SQL?					- https://techcommunity.microsoft.com/blog/sqlserversupport/what-is-causing-the-always-on-ag-issue-is-it-cluster-ad-dns-or-sql/3781656
 
 -------- AZURE SQL------
 
@@ -36,24 +36,24 @@
 
 ------ BEST PRACTICES ---------
 
-	Best Practices for SQL Server on VMware - Distilled - Anthony Nocentino's Blog	https://www.nocentino.com/posts/2021-09-27-sqlserver-vms-best-practices/
-	SQL Server on Physical Machine Best Practices	https://www.nocentino.com/posts/2021-10-12-sqlserver-physical-bestpractices/
+	Best Practices for SQL Server on VMware - Distilled - Anthony Nocentino's Blog		- https://www.nocentino.com/posts/2021-09-27-sqlserver-vms-best-practices/
+	SQL Server on Physical Machine Best Practices						- https://www.nocentino.com/posts/2021-10-12-sqlserver-physical-bestpractices/
 
 ------- BLOGS ---------
 
 	Brent Ozar		https://www.brentozar.com/blog/page/34/
-	cjsommer.com	https://www.cjsommer.com/tags/sql-server/
-	HariPriya Naidu	https://gohigh.substack.com/
+	cjsommer.com		https://www.cjsommer.com/tags/sql-server/
+	HariPriya Naidu		https://gohigh.substack.com/
 	JBs Wiki		https://jbswiki.com/
 	repltalk		https://repltalk.com/
 	SQL Server Support Blog	https://techcommunity.microsoft.com/t5/sql-server-support-blog/bg-p/SQLServerSupport
 	SQLRx			https://www.sqlrx.com/blog/
-	sqltabletalk	https://www.sqltabletalk.com/
+	sqltabletalk		https://www.sqltabletalk.com/
 
 
 ------ CLUSTER CREATION---------
 
-	How to Install & Configure SQL Server 2019 Fail over Cluster Step By Step	https://www.youtube.com/watch?v=euSiQFcyVPg
+	How to Install & Configure SQL Server 2019 Fail over Cluster Step By Step			https://www.youtube.com/watch?v=euSiQFcyVPg
 	I Built My Own Domain Controller (and you should too)						https://www.youtube.com/watch?v=LsQaXzXv1qc
 	Windows 2019 Failover Cluster Setup Oracle VirtualBox						https://www.youtube.com/watch?v=4_RD5VGzBoU
 
@@ -68,11 +68,11 @@
 ------DEVOPS- SQL SERVER---------
 
 	Building a near real time monitoring for SQL Server across Windows, Linux and containers	https://github.com/ava-orange-education/Ultimate-SQL-Server-and-Azure-SQL-for-Data-Management-and-Modernization/blob/main/Chapter%2008/1_Monitoring%20Solution%20for%20SQL%20Server.md
-	Get Started with Dev Containers in VS Code				https://www.youtube.com/watch?v=b1RavPr_878
-	Operational Validation of SQL Server at scale with PowerShell and Jenkins	https://www.youtube.com/watch?v=4Oit-dt15LM
-	Visual Studio Toolbox Live - Using Docker Containers in Visual Studio	https://www.youtube.com/watch?v=ZLBwnbbD0Zg
-	How to Use Ansible to Create SQL Server Databases		https://www.youtube.com/watch?v=QVNqYWbYwno
-	Azure Devops for Everyone | Start your DevOps journey	https://www.youtube.com/watch?v=Z2Nxipr6Xu0&list=PLgK9uIcbYj44AwKR6F8a1g-G5uGqqwzB2
+	Get Started with Dev Containers in VS Code							https://www.youtube.com/watch?v=b1RavPr_878
+	Operational Validation of SQL Server at scale with PowerShell and Jenkins			https://www.youtube.com/watch?v=4Oit-dt15LM
+	Visual Studio Toolbox Live - Using Docker Containers in Visual Studio				https://www.youtube.com/watch?v=ZLBwnbbD0Zg
+	How to Use Ansible to Create SQL Server Databases						https://www.youtube.com/watch?v=QVNqYWbYwno
+	Azure Devops for Everyone | Start your DevOps journey						https://www.youtube.com/watch?v=Z2Nxipr6Xu0&list=PLgK9uIcbYj44AwKR6F8a1g-G5uGqqwzB2
 	collect memory data										https://github.com/sqlserver-parikh/SQLServer/blob/master/Collect%20Memory%20Data.sql
 
 -------DOWNLOADS -------------
@@ -87,22 +87,22 @@
 
 -----	HIGH CPU----------
 		MAXDOP of Confusion					https://kendralittle.com/2016/07/14/max-degree-of-parallelism-cost-threshold-for-parallelism/
-		Server configuration: affinity mask	https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/affinity-mask-server-configuration-option?view=sql-server-ver16
-		Thread and task architecture guide	https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide?view=sql-server-ver16
+		Server configuration: affinity mask			https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/affinity-mask-server-configuration-option?view=sql-server-ver16
+		Thread and task architecture guide			https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide?view=sql-server-ver16
 	
 ----- High I/O --------------
 		Capturing IO latencies for a period of time			https://www.sqlskills.com/blogs/paul/capturing-io-latencies-period-time/
-		Improving SQL Server Database Backup Performance	https://glennsqlperformance.com/2022/09/22/improving-sql-server-database-backup-performance/
-		Measuring SQL Server File Latency					https://www.nocentino.com/posts/2021-10-06-sql-server-file-latency/
-		SQL Server troubleshooting: Disk I/O problems		https://www.sqlshack.com/sql-server-troubleshooting-disk-i-o-problems/
+		Improving SQL Server Database Backup Performance		https://glennsqlperformance.com/2022/09/22/improving-sql-server-database-backup-performance/
+		Measuring SQL Server File Latency				https://www.nocentino.com/posts/2021-10-06-sql-server-file-latency/
+		SQL Server troubleshooting: Disk I/O problems			https://www.sqlshack.com/sql-server-troubleshooting-disk-i-o-problems/
 		Troubleshoot slow SQL Server performance caused by I/O issues	https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/performance/troubleshoot-sql-io-performance
 	
 ------ HIGH MEMORY ------
-		Great SQL Server Debates: Buffer Cache Hit Ratio				      https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/great-sql-server-debates-buffer-cache-hit-ratio/
-		How to Identify Microsoft SQL Server Memory Bottlenecks			  https://www.mssqltips.com/sqlservertip/2304/how-to-identify-microsoft-sql-server-memory-bottlenecks/
-		Memory setting													                      https://kendralittle.com/course/how-to-decode-memory-pressure/seminar-recording/
-		SQL Server Memory Pressure Troubleshooting						        https://www.mssqltips.com/sqlservertip/6337/sql-server-memory-pressure-troubleshooting/
-		SQL Server monitoring tools for memory performance				    https://www.sqlshack.com/sql-server-monitoring-tools-for-memory-performance/
+		Great SQL Server Debates: Buffer Cache Hit Ratio		https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/great-sql-server-debates-buffer-cache-hit-ratio/
+		How to Identify Microsoft SQL Server Memory Bottlenecks		https://www.mssqltips.com/sqlservertip/2304/how-to-identify-microsoft-sql-server-memory-bottlenecks/
+		Memory setting							https://kendralittle.com/course/how-to-decode-memory-pressure/seminar-recording/
+		SQL Server Memory Pressure Troubleshooting			https://www.mssqltips.com/sqlservertip/6337/sql-server-memory-pressure-troubleshooting/
+		SQL Server monitoring tools for memory performance		https://www.sqlshack.com/sql-server-monitoring-tools-for-memory-performance/
 		Troubleshoot out of memory or low memory issues in SQL Server	https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/performance/troubleshoot-memory-issues
 
 
