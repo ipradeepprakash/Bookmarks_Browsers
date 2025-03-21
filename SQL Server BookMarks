@@ -61,9 +61,9 @@
 ------- DB RECOVERY---------
 
 	Recover TDE Databases in Disaster : Recover Steps for 3 Common Scenarios - Microsoft Community Hub	https://techcommunity.microsoft.com/t5/sql-server-support-blog/recover-tde-databases-in-disaster-recover-steps-for-3-common/ba-p/2963600
-	SQL Server Extents, PFS, GAM, SGAM and IAM and related corruptions	https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-extents-pfs-gam-sgam-and-iam-and-related-corruptions/1606011
+	SQL Server Extents, PFS, GAM, SGAM and IAM and related corruptions					https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-extents-pfs-gam-sgam-and-iam-and-related-corruptions/1606011
 	SQL Server GAM corruption samples									https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-gam-corruption-samples/1607111
-	SQL Server IAM page													https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-iam-page/1637065
+	SQL Server IAM page											https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-iam-page/1637065
 
 ------DEVOPS- SQL SERVER---------
 
@@ -86,9 +86,9 @@
 	Planned failover (DR drill) between SQL Server 2022 and SQL Managed Instance with MI link feature	https://www.youtube.com/watch?v=Ql1Evh6VVIM
 
 -----	HIGH CPU----------
-		MAXDOP of Confusion					https://kendralittle.com/2016/07/14/max-degree-of-parallelism-cost-threshold-for-parallelism/
-		Server configuration: affinity mask			https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/affinity-mask-server-configuration-option?view=sql-server-ver16
-		Thread and task architecture guide			https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide?view=sql-server-ver16
+		MAXDOP of Confusion						https://kendralittle.com/2016/07/14/max-degree-of-parallelism-cost-threshold-for-parallelism/
+		Server configuration: affinity mask				https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/affinity-mask-server-configuration-option?view=sql-server-ver16
+		Thread and task architecture guide				https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide?view=sql-server-ver16
 	
 ----- High I/O --------------
 		Capturing IO latencies for a period of time			https://www.sqlskills.com/blogs/paul/capturing-io-latencies-period-time/
