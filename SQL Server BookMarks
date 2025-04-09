@@ -131,13 +131,14 @@
 
 
 -------- LOG CAPTURE--------
-	Session 1: Intro - How to run SQL LogScout and collect some logs				https://www.youtube.com/watch?v=8arnDZPcq-c
-	Session 2: Use SQL LogScout with parameters							https://www.youtube.com/watch?v=13AvSLS-vmc
-	Session 3: SQL LogScout as Scheduled Task							https://www.youtube.com/watch?v=KBmitT-v_Gs
-	Session 4: How to use SQLLogScout with AGDiag to troubleshoot AlwaysOn Lease timeout Issues 	https://www.youtube.com/watch?v=0EQ5RSTrpnI
+		Session 1: Intro - How to run SQL LogScout and collect some logs				https://www.youtube.com/watch?v=8arnDZPcq-c
+		Session 2: Use SQL LogScout with parameters							https://www.youtube.com/watch?v=13AvSLS-vmc
+		Session 3: SQL LogScout as Scheduled Task							https://www.youtube.com/watch?v=KBmitT-v_Gs
+		Session 4: How to use SQLLogScout with AGDiag to troubleshoot AlwaysOn Lease timeout Issues 	https://www.youtube.com/watch?v=0EQ5RSTrpnI
 
 
 ---------	MONITORING	----------
+
 		Blocking Monitoring										https://github.com/SqlAdmin/AwesomeSQLServer/blob/master/T-SQL%20Scripts/Blocking%20Monitoring.sql
 		CPU Monitoring											https://github.com/SqlAdmin/AwesomeSQLServer/blob/master/T-SQL%20Scripts/CPU%20Monitoring.sql
 		Disk Space Monitoring										https://github.com/SqlAdmin/AwesomeSQLServer/blob/master/T-SQL%20Scripts/Disk%20Space%20Monitoring.sql
@@ -151,14 +152,15 @@
 
 
 ---------- 	PERFORMANCE TUNING	------------
+
 		How To Tune A Multi-Terabyte Database For Optimum Performance - PASS Data Community Summit	https://passdatacommunitysummit.com/video-library/how-to-tune-a-multi-terabyte-database-for-optimum-performance-3/
 		Multi-column statistics										https://techcommunity.microsoft.com/blog/sqlserversupport/multi-column-statistics/3667253
 		Perf Tune your Life with Atomic Habits - Tracy Boggiano						https://passdatacommunitysummit.com/video-library/perf-tune-your-life-with-atomic-habits/
 		SQL Server CE: Multiple single-column statistics						https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-ce-multiple-single-column-statistics/2726969
 		Statistics that need special attention								https://qdpma.azurewebsites.net/CBO/Statistics.html
 
-
 --------- 	POWERSHELL - DBATOOLS	--------------
+
 		dbatools: How do I get started?									https://blog.ordix.de/dbatools-how-do-i-get-started
 		dbatools.io											https://docs.dbatools.io/
 		Gathering Data using PowerShell									https://www.youtube.com/watch?v=jTPyUSK5MSc
@@ -166,7 +168,8 @@
 		SQL Server and PowerShell made easier with dbatools: Practical Examples				https://octopus.com/blog/sql-server-powershell-dbatools
 		Unlocking Database Automation with dbatools: Practical Use Cases and Real-World Insights	https://www.youtube.com/watch?v=Jls9JcrDS6M
 	
-		POWERSHELL - SQL SERVER-----------
+-----------     POWERSHELL - SQL SERVER-----------
+
 		Automate Glenn Berry’s DMV Script with PowerShell						https://www.youtube.com/watch?v=RQuQjOrjx_U
 		Automate Operational Readiness and Validation Testing of SQL Server with PowerShell and Pester	https://www.youtube.com/watch?v=Ds1YO_Dpx0I
 		Getting Started with PowerShell 3.0 								https://learn.microsoft.com/en-us/shows/getstartedpowershell3/02
@@ -176,21 +179,24 @@
 		PowerShell loves SSIS										https://www.youtube.com/watch?v=tM4T9TCeZ_8
 
 
-------- PRODUCTIVITY -----------
+------- 	PRODUCTIVITY -----------
 	
 		Preventing and Addressing DBA Burnout in Your Team - PASS Data Community Summit		https://passdatacommunitysummit.com/video-library/preventing-and-addressing-dba-burnout-in-your-team/	
 
 --------- 	PRODUCT KEY	Microsoft --------------
+
 		License Activation Key 								https://gist.github.com/judero01col/4eac6f01f3fe64a48924b229c6427f01
 		Windows 10 Enterprise Trial URLs from Microsoft TechNet Evaluation Center	https://gist.github.com/Tset-Noitamotua/15fa2f644f16f6d493bdea83bdbbe09e
 
------------ VM CREATION ------------------
+----------- 	VM CREATION ------------------
+
 		Stack Dump | TroubleshootingSQL							https://troubleshootingsql.com/tag/stack-dump/
 		TSQL Scripts for Troubleshooting Common Issues with SQL Server			https://techcommunity.microsoft.com/blog/sqlserversupport/tsql-scripts-for-troubleshooting-common-issues-with-sql-server/3258618
 		How to Create a Sandbox with VirtualBox and Vagrant				https://www.youtube.com/watch?v=9Gz2UiXeuM0
 		VM Images (Failover Cluster + 3 StandAlone SQL Server)				https://www.sqldbachamps.com/products/65ac0f3b028d87217c4289fe?dgps_s=ucpd&dgps_t=cp_u
 
 ----------- 	STORED PROCEDURES	----------------
+
 		SQL Performance Tuning tips for newbies			https://www.sqlshack.com/sql-performance-tuning-tips-for-newbies/
 		SQL Server Performance Essentials – Full Course		https://www.youtube.com/watch?v=HvxmF0FUwrM
 		SQL Server Stored Procedure Recompile Options		https://www.sqlshack.com/sql-server-stored-procedure-recompile-options/
