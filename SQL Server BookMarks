@@ -9,9 +9,9 @@
 
 ------ ANALYSIS	-----------
 
-	Advanced SQL Tutorial			https://www.youtube.com/watch?v=vDMehWw11wI&list=PLMT-ZFEXpkZ23IH4toeB1WDGzi8djjGps
-	Approach to Complex SQL Queries		https://www.youtube.com/watch?v=Vy8NRI24aXg
-	How to analyze SQL server stack dumps	https://www.pythian.com/blog/technical-track/analyze-sql-server-stack-dumps
+	Advanced SQL Tutorial											https://www.youtube.com/watch?v=vDMehWw11wI&list=PLMT-ZFEXpkZ23IH4toeB1WDGzi8djjGps
+	Approach to Complex SQL Queries										https://www.youtube.com/watch?v=Vy8NRI24aXg
+	How to analyze SQL server stack dumps									https://www.pythian.com/blog/technical-track/analyze-sql-server-stack-dumps
 
 
 ------- ALWAYS ON ----------
@@ -32,7 +32,7 @@
 
 -------- AZURE SQL------
 
-	Migrate SQL Server to Azure SQL Database 	https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/
+	Migrate SQL Server to Azure SQL Database 						https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/
 
 ------ BEST PRACTICES ---------
 
@@ -41,21 +41,21 @@
 
 ------- BLOGS ---------
 
-	Brent Ozar		https://www.brentozar.com/blog/page/34/
-	cjsommer.com		https://www.cjsommer.com/tags/sql-server/
-	HariPriya Naidu		https://gohigh.substack.com/
-	JBs Wiki		https://jbswiki.com/
-	repltalk		https://repltalk.com/
-	SQL Server Support Blog	https://techcommunity.microsoft.com/t5/sql-server-support-blog/bg-p/SQLServerSupport
-	SQLRx			https://www.sqlrx.com/blog/
-	sqltabletalk		https://www.sqltabletalk.com/
+	Brent Ozar			https://www.brentozar.com/blog/page/34/
+	cjsommer.com			https://www.cjsommer.com/tags/sql-server/
+	HariPriya Naidu			https://gohigh.substack.com/
+	JBs Wiki			https://jbswiki.com/
+	repltalk			https://repltalk.com/
+	SQL Server Support Blog		https://techcommunity.microsoft.com/t5/sql-server-support-blog/bg-p/SQLServerSupport
+	SQLRx				https://www.sqlrx.com/blog/
+	sqltabletalk			https://www.sqltabletalk.com/
 
 
 ------ CLUSTER CREATION---------
 
-	How to Install & Configure SQL Server 2019 Fail over Cluster Step By Step			https://www.youtube.com/watch?v=euSiQFcyVPg
-	I Built My Own Domain Controller (and you should too)						https://www.youtube.com/watch?v=LsQaXzXv1qc
-	Windows 2019 Failover Cluster Setup Oracle VirtualBox						https://www.youtube.com/watch?v=4_RD5VGzBoU
+	How to Install & Configure SQL Server 2019 Fail over Cluster Step By Step				https://www.youtube.com/watch?v=euSiQFcyVPg
+	I Built My Own Domain Controller (and you should too)							https://www.youtube.com/watch?v=LsQaXzXv1qc
+	Windows 2019 Failover Cluster Setup Oracle VirtualBox							https://www.youtube.com/watch?v=4_RD5VGzBoU
 
 
 ------- DB RECOVERY---------
@@ -77,9 +77,9 @@
 
 -------DOWNLOADS -------------
 
-	SQL Server 2017 - Download	https://my.visualstudio.com/Downloads?q=SQL%20Server%202017%20Developer%20Edition
-	SQL Server 2019 - Download	https://www.microsoft.com/en-us/evalcenter/download-sql-server-2019
-	SQL Server 2022- Download	https://my.visualstudio.com/Downloads?q=SQL%20Server%202022
+	SQL Server 2017 - Download									https://my.visualstudio.com/Downloads?q=SQL%20Server%202017%20Developer%20Edition
+	SQL Server 2019 - Download									https://www.microsoft.com/en-us/evalcenter/download-sql-server-2019
+	SQL Server 2022- Download									https://my.visualstudio.com/Downloads?q=SQL%20Server%202022
 
 
 ------	HADR----------
@@ -185,8 +185,8 @@
 
 --------- 	PRODUCT KEY	Microsoft --------------
 
-		License Activation Key 								https://gist.github.com/judero01col/4eac6f01f3fe64a48924b229c6427f01
-		Windows 10 Enterprise Trial URLs from Microsoft TechNet Evaluation Center	https://gist.github.com/Tset-Noitamotua/15fa2f644f16f6d493bdea83bdbbe09e
+		License Activation Key 									https://gist.github.com/judero01col/4eac6f01f3fe64a48924b229c6427f01
+		Windows 10 Enterprise Trial URLs from Microsoft TechNet Evaluation Center		https://gist.github.com/Tset-Noitamotua/15fa2f644f16f6d493bdea83bdbbe09e
 
 ----------- 	VM CREATION ------------------
 
@@ -197,13 +197,13 @@
 
 ----------- 	STORED PROCEDURES	----------------
 
-		SQL Performance Tuning tips for newbies			https://www.sqlshack.com/sql-performance-tuning-tips-for-newbies/
-		SQL Server Performance Essentials – Full Course		https://www.youtube.com/watch?v=HvxmF0FUwrM
-		SQL Server Stored Procedure Recompile Options		https://www.sqlshack.com/sql-server-stored-procedure-recompile-options/
+		SQL Performance Tuning tips for newbies						https://www.sqlshack.com/sql-performance-tuning-tips-for-newbies/
+		SQL Server Performance Essentials – Full Course					https://www.youtube.com/watch?v=HvxmF0FUwrM
+		SQL Server Stored Procedure Recompile Options					https://www.sqlshack.com/sql-server-stored-procedure-recompile-options/
 
 --------- 	SQLCMD USE	--------
-		SQLCMD - Connect SQL Server 				https://www.youtube.com/watch?v=Ag-y_mNSef8
-		SQLCMD - Structuring SQL Server Data Extraction		https://www.youtube.com/watch?v=UxJa6cUi3sM
+		SQLCMD - Connect SQL Server 							https://www.youtube.com/watch?v=Ag-y_mNSef8
+		SQLCMD - Structuring SQL Server Data Extraction					https://www.youtube.com/watch?v=UxJa6cUi3sM
 
 --------- 	REPLICATION	--------------
 		find SQL Server Replication related jobs and T-SQL statements	https://techcommunity.microsoft.com/blog/sqlserversupport/how-to-find-sql-server-replication-related-jobs-and-t-sql-statements/1530496
