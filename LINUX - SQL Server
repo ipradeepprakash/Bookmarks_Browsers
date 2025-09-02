@@ -1,0 +1,23 @@
+===================================================================================	LINUX - SQL Server ================================================================================
+
+
+	LINUX - SQL SERVER	
+		Create an Availability Group in SQL Server on Linux 													                        https://www.youtube.com/watch?v=hSKwz7OvmgQ
+		How to configure SQL Server High Availability Groups in Linux CentOS 7- SQL Server on Linux Tutorial 	https://www.youtube.com/watch?v=HpoRqs5QzRQ
+		How to create an Azure Virtual Machine (Linux) and How to Install SQL Server on Linux.					      https://www.youtube.com/watch?v=zv54fFzz4IU
+		Install Ubuntu LTS on VirtualBox in Windows 10 															                          https://www.youtube.com/watch?v=x5MhydijWmc&t=452s
+		Part 1 : Virtual machine cluster setup | Virtualbox | Cluster | Ubuntu 18.04							            https://www.youtube.com/watch?v=8DodjQ7QmsI
+		Part 3 : Installing Ubuntu Server 18 04 on virtualbox | Ubuntu Server | Virtualbox						        https://www.youtube.com/watch?v=TuP_-HqnYJw
+		Part 4 : Network setup for virtual machine cluster | Ubuntu 18.04 | Virtual Machine cluster				    https://www.youtube.com/watch?v=sOz5XpP_wNs
+		Part 5 : SSH setup virtual machine cluster | Ubuntu 18.04 | Virtualbox | Virtual Machine Cluster		  https://www.youtube.com/watch?v=kbCIl3QNpOU
+		SQL Server on Linux																						                                        https://www.youtube.com/watch?v=S-EVMQKoXck
+		SQL Server on Linux Performance - Louis Imershein 														                        https://www.youtube.com/watch?v=k_GJg8ZfLJ4
+
+	Linux - ALWAYS ON	
+		Part 2 - SQL Server Always On Availability Group Configuration - Create Domain Controller		  https://www.youtube.com/watch?v=RaCdDWOjTzw&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=3
+		Part 3 - SQL Server Always On AG Configuration - Install .Net and Failover Cluster				    https://www.youtube.com/watch?v=7dg2Onkm5M8&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=4
+		Part 4 -SQL Server Always On AG Configuration - Failover Cluster Validation & Creation			  https://www.youtube.com/watch?v=mhZlK5eVUxg&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=5
+		Part1 - SQL Server Always On Availability Group Configuration in Oracle VM						        https://www.youtube.com/watch?v=YtfhgE6spn8&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk
+		Part5(a) - SQL Server Always On AG Configuration - SQL Server 2019 Installation					      https://www.youtube.com/watch?v=bdPt0i7bE8s&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=6
+		Part5(b) - SQL Server Always On AG Configuration - SQL Server 2019 Installation					      https://www.youtube.com/watch?v=Uim7Q_yPX8c&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=7
+	
