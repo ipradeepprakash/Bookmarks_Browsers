@@ -4,35 +4,35 @@
 
 
 -----	HIGH CPU----------
-		MAXDOP of Confusion																				        	https://kendralittle.com/2016/07/14/max-degree-of-parallelism-cost-threshold-for-parallelism/
+		MAXDOP of Confusion																				   	https://kendralittle.com/2016/07/14/max-degree-of-parallelism-cost-threshold-for-parallelism/
 		Server configuration: affinity mask																	https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/affinity-mask-server-configuration-option?view=sql-server-ver16
 		Thread and task architecture guide																	https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide?view=sql-server-ver16
 	
 ----- High I/O --------------
-		Capturing IO latencies for a period of time															https://www.sqlskills.com/blogs/paul/capturing-io-latencies-period-time/
+		Capturing IO latencies for a period of time														https://www.sqlskills.com/blogs/paul/capturing-io-latencies-period-time/
 		Improving SQL Server Database Backup Performance												https://glennsqlperformance.com/2022/09/22/improving-sql-server-database-backup-performance/
-		Measuring SQL Server File Latency																      	https://www.nocentino.com/posts/2021-10-06-sql-server-file-latency/
-		SQL Server troubleshooting: Disk I/O problems														https://www.sqlshack.com/sql-server-troubleshooting-disk-i-o-problems/
-		Troubleshoot slow SQL Server performance caused by I/O issues						https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/performance/troubleshoot-sql-io-performance
+		Measuring SQL Server File Latency																https://www.nocentino.com/posts/2021-10-06-sql-server-file-latency/
+		SQL Server troubleshooting: Disk I/O problems													https://www.sqlshack.com/sql-server-troubleshooting-disk-i-o-problems/
+		Troubleshoot slow SQL Server performance caused by I/O issues									https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/performance/troubleshoot-sql-io-performance
 	
 ------ HIGH MEMORY ------
-		Great SQL Server Debates: Buffer Cache Hit Ratio													https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/great-sql-server-debates-buffer-cache-hit-ratio/
-		How to Identify Microsoft SQL Server Memory Bottlenecks										https://www.mssqltips.com/sqlservertip/2304/how-to-identify-microsoft-sql-server-memory-bottlenecks/
-		Memory setting																						                https://kendralittle.com/course/how-to-decode-memory-pressure/seminar-recording/
-		SQL Server Memory Pressure Troubleshooting														  	https://www.mssqltips.com/sqlservertip/6337/sql-server-memory-pressure-troubleshooting/
+		Great SQL Server Debates: Buffer Cache Hit Ratio												https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/great-sql-server-debates-buffer-cache-hit-ratio/
+		How to Identify Microsoft SQL Server Memory Bottlenecks											https://www.mssqltips.com/sqlservertip/2304/how-to-identify-microsoft-sql-server-memory-bottlenecks/
+		Memory setting																					https://kendralittle.com/course/how-to-decode-memory-pressure/seminar-recording/
+		SQL Server Memory Pressure Troubleshooting														https://www.mssqltips.com/sqlservertip/6337/sql-server-memory-pressure-troubleshooting/
 		SQL Server monitoring tools for memory performance												https://www.sqlshack.com/sql-server-monitoring-tools-for-memory-performance/
-		Troubleshoot out of memory or low memory issues in SQL Server							https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/performance/troubleshoot-memory-issues
+		Troubleshoot out of memory or low memory issues in SQL Server									https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/performance/troubleshoot-memory-issues
 
 ===== STORED PROCEDURES (performance) ========
 
-		SQL Performance Tuning tips for newbies															    https://www.sqlshack.com/sql-performance-tuning-tips-for-newbies/
+		SQL Performance Tuning tips for newbies															https://www.sqlshack.com/sql-performance-tuning-tips-for-newbies/
 		SQL Server Performance Essentials – Full Course													https://www.youtube.com/watch?v=HvxmF0FUwrM
-		SQL Server Stored Procedure Recompile Options													  https://www.sqlshack.com/sql-server-stored-procedure-recompile-options/
-		Stop using variables in stored procedures for no reason									https://sql-play.com/2025/09/01/stop-using-variables-in-stored-procedures-for-no-reason/
+		SQL Server Stored Procedure Recompile Options													https://www.sqlshack.com/sql-server-stored-procedure-recompile-options/
+		Stop using variables in stored procedures for no reason											https://sql-play.com/2025/09/01/stop-using-variables-in-stored-procedures-for-no-reason/
 
 
 --------- 	SQLCMD USE	--------
-		SQLCMD - Connect SQL Server 																          	https://www.youtube.com/watch?v=Ag-y_mNSef8
+		SQLCMD - Connect SQL Server 																    https://www.youtube.com/watch?v=Ag-y_mNSef8
 		SQLCMD - Structuring SQL Server Data Extraction													https://www.youtube.com/watch?v=UxJa6cUi3sM
 
 
@@ -40,7 +40,13 @@
 ---------- 	PERFORMANCE TUNING	------------
 
 		How To Tune A Multi-Terabyte Database For Optimum Performance - PASS Data Community Summit			https://passdatacommunitysummit.com/video-library/how-to-tune-a-multi-terabyte-database-for-optimum-performance-3/
-		Multi-column statistics																				                                  https://techcommunity.microsoft.com/blog/sqlserversupport/multi-column-statistics/3667253
-		Perf Tune your Life with Atomic Habits - Tracy Boggiano												                  https://passdatacommunitysummit.com/video-library/perf-tune-your-life-with-atomic-habits/
-		SQL Server CE: Multiple single-column statistics												                      	https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-ce-multiple-single-column-statistics/2726969
-		Statistics that need special attention																                          https://qdpma.azurewebsites.net/CBO/Statistics.html
+		Multi-column statistics																				https://techcommunity.microsoft.com/blog/sqlserversupport/multi-column-statistics/3667253
+		Perf Tune your Life with Atomic Habits - Tracy Boggiano												https://passdatacommunitysummit.com/video-library/perf-tune-your-life-with-atomic-habits/
+		SQL Server CE: Multiple single-column statistics												    https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-ce-multiple-single-column-statistics/2726969
+		Statistics that need special attention																https://qdpma.azurewebsites.net/CBO/Statistics.html
+
+
+---------- 	OPTIMIZER ---------
+		13 Optimizer Statistic Problems you Didn't Know you Had - PASS Data Community Summit		https://passdatacommunitysummit.com/video-library/13-optimizer-statistic-problems-you-didnt-know-you-had/
+
+
