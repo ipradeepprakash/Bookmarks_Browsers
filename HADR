@@ -1,0 +1,25 @@
+
+
+===================================================================	HADR ===================================================
+
+
+  	Planned failover (DR drill) between SQL Server 2022 and SQL Managed Instance with MI link feature		https://www.youtube.com/watch?v=Ql1Evh6VVIM
+
+
+-------------------------------------------------- 	REPLICATION	------------------------------------------------------------------
+		find SQL Server Replication related jobs and T-SQL statements									https://techcommunity.microsoft.com/blog/sqlserversupport/how-to-find-sql-server-replication-related-jobs-and-t-sql-statements/1530496
+
+------------------------------------------------- CLUSTER CREATION ------------------------------------------------------------
+
+	How to Install & Configure SQL Server 2019 Fail over Cluster Step By Step								https://www.youtube.com/watch?v=euSiQFcyVPg
+	I Built My Own Domain Controller (and you should too)													          https://www.youtube.com/watch?v=LsQaXzXv1qc
+	Windows 2019 Failover Cluster Setup Oracle VirtualBox													          https://www.youtube.com/watch?v=4_RD5VGzBoU
+
+
+--------------------------------------------------- DB RECOVERY --------------------------------------------------------------------------
+
+	Recover TDE Databases in Disaster : Recover Steps for 3 Common Scenarios - Microsoft Community Hub		https://techcommunity.microsoft.com/t5/sql-server-support-blog/recover-tde-databases-in-disaster-recover-steps-for-3-common/ba-p/2963600
+	SQL Server Extents, PFS, GAM, SGAM and IAM and related corruptions										                https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-extents-pfs-gam-sgam-and-iam-and-related-corruptions/1606011
+	SQL Server GAM corruption samples																		                                  https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-gam-corruption-samples/1607111
+	SQL Server IAM page		
+
