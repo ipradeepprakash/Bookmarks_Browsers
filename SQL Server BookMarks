@@ -1,14 +1,14 @@
 /*
 
 	
------- ADMINISTRATION --------
+=========================================================== ADMINISTRATION ====================================================
 
 	first Responder kit																					https://www.brentozar.com/blog/page/34/
 	Splitting Up Your Work in Chunks - Erland Sommarskog												https://www.youtube.com/watch?v=fb_3tP435ZA&list=PLoGAcXKPcRva915OeutOXOtFKN19WSL4I&index=76
 	Reworking Indexes to Support an Evolving Application: Courtney Woolum 								https://youtu.be/RBhfyuXfWQ0
 
 
------- ANALYSIS	-----------
+================================================================ ANALYSIS ===============================================
 
 	Advanced SQL Tutorial																				https://www.youtube.com/watch?v=vDMehWw11wI&list=PLMT-ZFEXpkZ23IH4toeB1WDGzi8djjGps
 	Approach to Complex SQL Queries																		https://www.youtube.com/watch?v=Vy8NRI24aXg
@@ -16,235 +16,27 @@
 	Intro to Microsoft Fabric - Data analytics for the era of AI: Javier Villegas                       https://youtu.be/TuZaSYa4GOY
 	Data Warehouses in Microsoft Fabric: Rajendra Ongole												https://youtu.be/SYBFvwJl0Wg
 
------- SECURITY -----------
+=========================================================== SECURITY =============================================================
+
 	Defending Your SQL Server: Strategies against Ransomware: Jeff Iannucci 							https://youtu.be/E4UwC0_Ue1Y
 
 
-------- ALWAYS ON ----------
 
-	Always on Availability Groups Using Load Balancer(VNN) and Distributed Network Name(DNN) 				- https://www.youtube.com/watch?v=UbOI3q3v-Uo
-	AlwaysOn synchronize performance can affect memory?														- https://techcommunity.microsoft.com/blog/sqlserversupport/alwayson-synchronize-performance-can-affect-memory/3380913
-	Common Causes and Troubleshooting Solutions for SQL AG Data Synchronization Latency						- https://techcommunity.microsoft.com/blog/sqlserversupport/common-causes-and-troubleshooting-solutions-for-sql-ag-data-synchronization-late/2963083
-	Configure multiple-subnet AlwaysOn Availability Group by modifying CIB									- https://techcommunity.microsoft.com/blog/sqlserversupport/configure-multiple-subnet-alwayson-availability-group-by-modifying-cib/1544838
-	Configure Windows Cluster and SQL Server 2019 Always-ON Availability Group On AZURE VMs Step-By-Step	- https://www.youtube.com/watch?v=BeYsHX87WEQ
-	Create a hybrid Distributed Availability Group Between SQL Windows and SQL Linux						- https://techcommunity.microsoft.com/blog/sqlserversupport/create-a-hybrid-distributed-availability-group-between-sql-windows-and-sql-linux/1175021
-	Create Distributed Availability Group in Sql Server Linux(Redhat) --- step by step						- https://techcommunity.microsoft.com/blog/sqlserversupport/create-distributed-availability-group-in-sql-server-linuxredhat-----step-by-step/1003471
-	Distributed Availability Group configuration on Azure virtual machines (IAAS)							- https://www.youtube.com/watch?v=O-jPLenG858
-	How To Configure Domain Independent and Cluster Less Always on Availability Groups in MS SQL Server		- https://www.youtube.com/watch?v=HE3HBkZLjQw
-	Password required' when trying to add a database having a 'master key' to AG group						- https://techcommunity.microsoft.com/blog/sqlserversupport/password-required-when-trying-to-add-a-database-having-a-master-key-to-ag-group/1029357
-	Setup SQL Server 2016 Always On Distributed Availability Groups											- https://www.mssqltips.com/sqlservertip/5053/setup-and-implement-sql-server-2016-always-on-distributed-availability-groups/
-	SQL Server Alwayson primary replica failed to create diagnostics log.									- https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-alwayson-primary-replica-failed-to-create-diagnostics-log-/1229920
-	What is causing the Always On AG issue? Is it cluster, AD, DNS, or SQL?									- https://techcommunity.microsoft.com/blog/sqlserversupport/what-is-causing-the-always-on-ag-issue-is-it-cluster-ad-dns-or-sql/3781656
 
--------- AZURE SQL------
+================================================================ AZURE SQL =================================================================
 
 	Migrate SQL Server to Azure SQL Database 																https://learn.microsoft.com/en-us/credentials/applied-skills/migrate-sql-workloads-azure-sql-database/
 
------- BEST PRACTICES ---------
+
+=========================================================== BEST PRACTICES =================================================================
 
 	Best Practices for SQL Server on VMware - Distilled - Anthony Nocentino's Blog							- https://www.nocentino.com/posts/2021-09-27-sqlserver-vms-best-practices/
 	SQL Server on Physical Machine Best Practices															- https://www.nocentino.com/posts/2021-10-12-sqlserver-physical-bestpractices/
 
-------- BLOGS ---------
-
-	Brent Ozar																								https://www.brentozar.com/blog/page/34/
-	cjsommer.com																							https://www.cjsommer.com/tags/sql-server/
-	HariPriya Naidu																							https://gohigh.substack.com/
-	JBs Wiki																								https://jbswiki.com/
-	repltalk																								https://repltalk.com/
-	SQL Server Support Blog																					https://techcommunity.microsoft.com/t5/sql-server-support-blog/bg-p/SQLServerSupport
-	SQLRx																									https://www.sqlrx.com/blog/
-	sqltabletalk																							https://www.sqltabletalk.com/
-
-
------- CLUSTER CREATION---------
-
-	How to Install & Configure SQL Server 2019 Fail over Cluster Step By Step								https://www.youtube.com/watch?v=euSiQFcyVPg
-	I Built My Own Domain Controller (and you should too)													https://www.youtube.com/watch?v=LsQaXzXv1qc
-	Windows 2019 Failover Cluster Setup Oracle VirtualBox													https://www.youtube.com/watch?v=4_RD5VGzBoU
-
-
-------- DB RECOVERY---------
-
-	Recover TDE Databases in Disaster : Recover Steps for 3 Common Scenarios - Microsoft Community Hub		https://techcommunity.microsoft.com/t5/sql-server-support-blog/recover-tde-databases-in-disaster-recover-steps-for-3-common/ba-p/2963600
-	SQL Server Extents, PFS, GAM, SGAM and IAM and related corruptions										https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-extents-pfs-gam-sgam-and-iam-and-related-corruptions/1606011
-	SQL Server GAM corruption samples																		https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-gam-corruption-samples/1607111
-	SQL Server IAM page																						https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-iam-page/1637065
-
-------DEVOPS- SQL SERVER---------
-
-	Building a near real time monitoring for SQL Server across Windows, Linux and containers				https://github.com/ava-orange-education/Ultimate-SQL-Server-and-Azure-SQL-for-Data-Management-and-Modernization/blob/main/Chapter%2008/1_Monitoring%20Solution%20for%20SQL%20Server.md
-	Get Started with Dev Containers in VS Code																https://www.youtube.com/watch?v=b1RavPr_878
-	Operational Validation of SQL Server at scale with PowerShell and Jenkins								https://www.youtube.com/watch?v=4Oit-dt15LM
-	Visual Studio Toolbox Live - Using Docker Containers in Visual Studio									https://www.youtube.com/watch?v=ZLBwnbbD0Zg
-	How to Use Ansible to Create SQL Server Databases														https://www.youtube.com/watch?v=QVNqYWbYwno
-	Azure Devops for Everyone | Start your DevOps journey													https://www.youtube.com/watch?v=Z2Nxipr6Xu0&list=PLgK9uIcbYj44AwKR6F8a1g-G5uGqqwzB2
-	collect memory data																						https://github.com/sqlserver-parikh/SQLServer/blob/master/Collect%20Memory%20Data.sql
-
-==================================================================== DOWNLOADS ====================================================================================================
- 
-	SQL Server 2017 - Download																				https://my.visualstudio.com/Downloads?q=SQL%20Server%202017%20Developer%20Edition
-	SQL Server 2019 - Download																				https://www.microsoft.com/en-us/evalcenter/download-sql-server-2019
-	SQL Server 2022- Download																				https://my.visualstudio.com/Downloads?q=SQL%20Server%202022
-
-
-------	HADR----------
-	Planned failover (DR drill) between SQL Server 2022 and SQL Managed Instance with MI link feature		https://www.youtube.com/watch?v=Ql1Evh6VVIM
-
------	HIGH CPU----------
-		MAXDOP of Confusion																					https://kendralittle.com/2016/07/14/max-degree-of-parallelism-cost-threshold-for-parallelism/
-		Server configuration: affinity mask																	https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/affinity-mask-server-configuration-option?view=sql-server-ver16
-		Thread and task architecture guide																	https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide?view=sql-server-ver16
-	
------ High I/O --------------
-		Capturing IO latencies for a period of time															https://www.sqlskills.com/blogs/paul/capturing-io-latencies-period-time/
-		Improving SQL Server Database Backup Performance													https://glennsqlperformance.com/2022/09/22/improving-sql-server-database-backup-performance/
-		Measuring SQL Server File Latency																	https://www.nocentino.com/posts/2021-10-06-sql-server-file-latency/
-		SQL Server troubleshooting: Disk I/O problems														https://www.sqlshack.com/sql-server-troubleshooting-disk-i-o-problems/
-		Troubleshoot slow SQL Server performance caused by I/O issues										https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/performance/troubleshoot-sql-io-performance
-	
------- HIGH MEMORY ------
-		Great SQL Server Debates: Buffer Cache Hit Ratio													https://www.red-gate.com/simple-talk/databases/sql-server/database-administration-sql-server/great-sql-server-debates-buffer-cache-hit-ratio/
-		How to Identify Microsoft SQL Server Memory Bottlenecks												https://www.mssqltips.com/sqlservertip/2304/how-to-identify-microsoft-sql-server-memory-bottlenecks/
-		Memory setting																						https://kendralittle.com/course/how-to-decode-memory-pressure/seminar-recording/
-		SQL Server Memory Pressure Troubleshooting															https://www.mssqltips.com/sqlservertip/6337/sql-server-memory-pressure-troubleshooting/
-		SQL Server monitoring tools for memory performance													https://www.sqlshack.com/sql-server-monitoring-tools-for-memory-performance/
-		Troubleshoot out of memory or low memory issues in SQL Server										https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/performance/troubleshoot-memory-issues
-
-/*
-
-
-===================================================================================	LINUX - SQL Server ================================================================================
-
-	Linux - ALWAYS ON	
-		Part 2 - SQL Server Always On Availability Group Configuration - Create Domain Controller		https://www.youtube.com/watch?v=RaCdDWOjTzw&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=3
-		Part 3 - SQL Server Always On AG Configuration - Install .Net and Failover Cluster				https://www.youtube.com/watch?v=7dg2Onkm5M8&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=4
-		Part 4 -SQL Server Always On AG Configuration - Failover Cluster Validation & Creation			https://www.youtube.com/watch?v=mhZlK5eVUxg&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=5
-		Part1 - SQL Server Always On Availability Group Configuration in Oracle VM						https://www.youtube.com/watch?v=YtfhgE6spn8&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk
-		Part5(a) - SQL Server Always On AG Configuration - SQL Server 2019 Installation					https://www.youtube.com/watch?v=bdPt0i7bE8s&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=6
-		Part5(b) - SQL Server Always On AG Configuration - SQL Server 2019 Installation					https://www.youtube.com/watch?v=Uim7Q_yPX8c&list=PL54RX_9LGUUkYcq6p-XCbythVw6rtRFQk&index=7
-	
-	LINUX - SQL SERVER	
-		Create an Availability Group in SQL Server on Linux 													https://www.youtube.com/watch?v=hSKwz7OvmgQ
-		How to configure SQL Server High Availability Groups in Linux CentOS 7- SQL Server on Linux Tutorial 	https://www.youtube.com/watch?v=HpoRqs5QzRQ
-		How to create an Azure Virtual Machine (Linux) and How to Install SQL Server on Linux.					https://www.youtube.com/watch?v=zv54fFzz4IU
-		Install Ubuntu LTS on VirtualBox in Windows 10 															https://www.youtube.com/watch?v=x5MhydijWmc&t=452s
-		Part 1 : Virtual machine cluster setup | Virtualbox | Cluster | Ubuntu 18.04							https://www.youtube.com/watch?v=8DodjQ7QmsI
-		Part 3 : Installing Ubuntu Server 18 04 on virtualbox | Ubuntu Server | Virtualbox						https://www.youtube.com/watch?v=TuP_-HqnYJw
-		Part 4 : Network setup for virtual machine cluster | Ubuntu 18.04 | Virtual Machine cluster				https://www.youtube.com/watch?v=sOz5XpP_wNs
-		Part 5 : SSH setup virtual machine cluster | Ubuntu 18.04 | Virtualbox | Virtual Machine Cluster		https://www.youtube.com/watch?v=kbCIl3QNpOU
-		SQL Server on Linux																						https://www.youtube.com/watch?v=S-EVMQKoXck
-		SQL Server on Linux Performance - Louis Imershein 														https://www.youtube.com/watch?v=k_GJg8ZfLJ4
-
-
--------- LOG CAPTURE--------
-		Session 1: Intro - How to run SQL LogScout and collect some logs								https://www.youtube.com/watch?v=8arnDZPcq-c
-		Session 2: Use SQL LogScout with parameters														https://www.youtube.com/watch?v=13AvSLS-vmc
-		Session 3: SQL LogScout as Scheduled Task														https://www.youtube.com/watch?v=KBmitT-v_Gs
-		Session 4: How to use SQLLogScout with AGDiag to troubleshoot AlwaysOn Lease timeout Issues 	https://www.youtube.com/watch?v=0EQ5RSTrpnI
-
-
-
-
-==================================================================== Tools & Monitoring =========================================================================================
-
----------	MONITORING	----------
-
-		Blocking Monitoring																				https://github.com/SqlAdmin/AwesomeSQLServer/blob/master/T-SQL%20Scripts/Blocking%20Monitoring.sql
-		CPU Monitoring																					https://github.com/SqlAdmin/AwesomeSQLServer/blob/master/T-SQL%20Scripts/CPU%20Monitoring.sql
-		Disk Space Monitoring																			https://github.com/SqlAdmin/AwesomeSQLServer/blob/master/T-SQL%20Scripts/Disk%20Space%20Monitoring.sql
-		IO Monitoring																					https://github.com/SqlAdmin/AwesomeSQLServer/blob/master/T-SQL%20Scripts/IO%20Monitoring.sql
-		Memory Monitoring																				https://github.com/SqlAdmin/AwesomeSQLServer/blob/master/T-SQL%20Scripts/Memory%20Monitoring.sql
-		Monitoring activities using sp_WhoIsActive in SQL Server										https://www.sqlshack.com/monitoring-activities-using-sp_whoisactive-in-sql-server/
-		Session Monitoring																				https://github.com/SQLadmin/AwesomeSQLServer/blob/master/T-SQL%20Scripts/Session%20Monitoring.sql
-		Intelligent Query Processing new Features in SQL Server 2022: Dennes Torres						https://youtu.be/0Fs8cmGJS9Y
-		
-
----------- 	OPTIMIZER ---------
-		13 Optimizer Statistic Problems you Didn't Know you Had - PASS Data Community Summit		https://passdatacommunitysummit.com/video-library/13-optimizer-statistic-problems-you-didnt-know-you-had/
-
-
----------- 	PERFORMANCE TUNING	------------
-
-		How To Tune A Multi-Terabyte Database For Optimum Performance - PASS Data Community Summit			https://passdatacommunitysummit.com/video-library/how-to-tune-a-multi-terabyte-database-for-optimum-performance-3/
-		Multi-column statistics																				https://techcommunity.microsoft.com/blog/sqlserversupport/multi-column-statistics/3667253
-		Perf Tune your Life with Atomic Habits - Tracy Boggiano												https://passdatacommunitysummit.com/video-library/perf-tune-your-life-with-atomic-habits/
-		SQL Server CE: Multiple single-column statistics													https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-ce-multiple-single-column-statistics/2726969
-		Statistics that need special attention																https://qdpma.azurewebsites.net/CBO/Statistics.html
-
---------- 	POWERSHELL - DBATOOLS	--------------
-
-		dbatools: How do I get started?																https://blog.ordix.de/dbatools-how-do-i-get-started
-		dbatools.io																					https://docs.dbatools.io/
-		Gathering Data using PowerShell																https://www.youtube.com/watch?v=jTPyUSK5MSc
-		Migrate databases easily with dbatools														https://www.youtube.com/watch?v=FofZIz8OgCg
-		SQL Server and PowerShell made easier with dbatools: Practical Examples						https://octopus.com/blog/sql-server-powershell-dbatools
-		Unlocking Database Automation with dbatools: Practical Use Cases and Real-World Insights	https://www.youtube.com/watch?v=Jls9JcrDS6M
-	
------------     POWERSHELL - SQL SERVER-----------
-
-		Automate Glenn Berry’s DMV Script with PowerShell												https://www.youtube.com/watch?v=RQuQjOrjx_U
-		Automate Operational Readiness and Validation Testing of SQL Server with PowerShell and Pester	https://www.youtube.com/watch?v=Ds1YO_Dpx0I
-		Getting Started with PowerShell 3.0 															https://learn.microsoft.com/en-us/shows/getstartedpowershell3/02
-		Hacking SQL Servers on Scale using PowerShell													https://www.youtube.com/watch?v=npoORzfP7rw
-		Managing SQL Server Containers with PowerShell													https://www.youtube.com/watch?v=M4qdFo1KXmg
-		Need to Speed Pragmatic Problem Solving with PowerShell											https://www.youtube.com/watch?v=1ajgIKg1zBk
-		PowerShell loves SSIS																			https://www.youtube.com/watch?v=tM4T9TCeZ_8
-
-
-
-
-
 
 ========================================================================== 	PRODUCTIVITY ===========================================================
 	
-		Preventing and Addressing DBA Burnout in Your Team - PASS Data Community Summit					https://passdatacommunitysummit.com/video-library/preventing-and-addressing-dba-burnout-in-your-team/	
-
---------- 	PRODUCT KEY	Microsoft --------------
-
-		License Activation Key 																			https://gist.github.com/judero01col/4eac6f01f3fe64a48924b229c6427f01
-		Windows 10 Enterprise Trial URLs from Microsoft TechNet Evaluation Center						https://gist.github.com/Tset-Noitamotua/15fa2f644f16f6d493bdea83bdbbe09e
-
------------ 	VM CREATION ------------------
-
-		Stack Dump | TroubleshootingSQL																	https://troubleshootingsql.com/tag/stack-dump/
-		TSQL Scripts for Troubleshooting Common Issues with SQL Server									https://techcommunity.microsoft.com/blog/sqlserversupport/tsql-scripts-for-troubleshooting-common-issues-with-sql-server/3258618
-		How to Create a Sandbox with VirtualBox and Vagrant												https://www.youtube.com/watch?v=9Gz2UiXeuM0
-		VM Images (Failover Cluster + 3 StandAlone SQL Server)											https://www.sqldbachamps.com/products/65ac0f3b028d87217c4289fe?dgps_s=ucpd&dgps_t=cp_u
-
-
-
-
-
-
-
-====================================================================== 	STORED PROCEDURES (performance) =======================================================
-
-		SQL Performance Tuning tips for newbies															https://www.sqlshack.com/sql-performance-tuning-tips-for-newbies/
-		SQL Server Performance Essentials – Full Course													https://www.youtube.com/watch?v=HvxmF0FUwrM
-		SQL Server Stored Procedure Recompile Options													https://www.sqlshack.com/sql-server-stored-procedure-recompile-options/
-		Stop using variables in stored procedures for no reason											https://sql-play.com/2025/09/01/stop-using-variables-in-stored-procedures-for-no-reason/
-
-
---------- 	SQLCMD USE	--------
-		SQLCMD - Connect SQL Server 																	https://www.youtube.com/watch?v=Ag-y_mNSef8
-		SQLCMD - Structuring SQL Server Data Extraction													https://www.youtube.com/watch?v=UxJa6cUi3sM
-
---------- 	REPLICATION	--------------
-		find SQL Server Replication related jobs and T-SQL statements									https://techcommunity.microsoft.com/blog/sqlserversupport/how-to-find-sql-server-replication-related-jobs-and-t-sql-statements/1530496
-
-
-
-*/
-
-
-
-
-
-
-
-
-
+Preventing and Addressing DBA Burnout in Your Team - PASS Data Community Summit					https://passdatacommunitysummit.com/video-library/preventing-and-addressing-dba-burnout-in-your-team/	
 
 
 
@@ -253,9 +45,3 @@
 */
 
 
-
-
-
-
-
-*/
