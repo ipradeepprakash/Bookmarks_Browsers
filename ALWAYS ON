@@ -1,0 +1,15 @@
+------- ALWAYS ON ----------
+
+	Always on Availability Groups Using Load Balancer(VNN) and Distributed Network Name(DNN) 				      - https://www.youtube.com/watch?v=UbOI3q3v-Uo
+	AlwaysOn synchronize performance can affect memory?														                        - https://techcommunity.microsoft.com/blog/sqlserversupport/alwayson-synchronize-performance-can-affect-memory/3380913
+	Common Causes and Troubleshooting Solutions for SQL AG Data Synchronization Latency						        - https://techcommunity.microsoft.com/blog/sqlserversupport/common-causes-and-troubleshooting-solutions-for-sql-ag-data-synchronization-late/2963083
+	Configure multiple-subnet AlwaysOn Availability Group by modifying CIB									              - https://techcommunity.microsoft.com/blog/sqlserversupport/configure-multiple-subnet-alwayson-availability-group-by-modifying-cib/1544838
+	Configure Windows Cluster and SQL Server 2019 Always-ON Availability Group On AZURE VMs Step-By-Step	- https://www.youtube.com/watch?v=BeYsHX87WEQ
+	Create a hybrid Distributed Availability Group Between SQL Windows and SQL Linux						          - https://techcommunity.microsoft.com/blog/sqlserversupport/create-a-hybrid-distributed-availability-group-between-sql-windows-and-sql-linux/1175021
+	Create Distributed Availability Group in Sql Server Linux(Redhat) --- step by step						        - https://techcommunity.microsoft.com/blog/sqlserversupport/create-distributed-availability-group-in-sql-server-linuxredhat-----step-by-step/1003471
+	Distributed Availability Group configuration on Azure virtual machines (IAAS)							            - https://www.youtube.com/watch?v=O-jPLenG858
+	How To Configure Domain Independent and Cluster Less Always on Availability Groups in MS SQL Server		- https://www.youtube.com/watch?v=HE3HBkZLjQw
+	Password required' when trying to add a database having a 'master key' to AG group						        - https://techcommunity.microsoft.com/blog/sqlserversupport/password-required-when-trying-to-add-a-database-having-a-master-key-to-ag-group/1029357
+	Setup SQL Server 2016 Always On Distributed Availability Groups											                  - https://www.mssqltips.com/sqlservertip/5053/setup-and-implement-sql-server-2016-always-on-distributed-availability-groups/
+	SQL Server Alwayson primary replica failed to create diagnostics log.									                - https://techcommunity.microsoft.com/blog/sqlserversupport/sql-server-alwayson-primary-replica-failed-to-create-diagnostics-log-/1229920
+	What is causing the Always On AG issue? Is it cluster, AD, DNS, or SQL?									              - https://techcommunity.microsoft.com/blog/sqlserversupport/what-is-causing-the-always-on-ag-issue-is-it-cluster-ad-dns-or-sql/3781656
