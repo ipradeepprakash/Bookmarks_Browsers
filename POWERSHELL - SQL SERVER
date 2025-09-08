@@ -1,20 +1,50 @@
 --------- 	POWERSHELL - DBATOOLS	--------------
 
-		dbatools: How do I get started?																https://blog.ordix.de/dbatools-how-do-i-get-started
-		dbatools.io																					https://docs.dbatools.io/
-		Gathering Data using PowerShell																https://www.youtube.com/watch?v=jTPyUSK5MSc
-		Migrate databases easily with dbatools														https://www.youtube.com/watch?v=FofZIz8OgCg
-		SQL Server and PowerShell made easier with dbatools: Practical Examples						https://octopus.com/blog/sql-server-powershell-dbatools
-		Unlocking Database Automation with dbatools: Practical Use Cases and Real-World Insights	https://www.youtube.com/watch?v=Jls9JcrDS6M
+dbatools: How do I get started?																https://blog.ordix.de/dbatools-how-do-i-get-started
+dbatools.io																					https://docs.dbatools.io/
+Gathering Data using PowerShell																https://www.youtube.com/watch?v=jTPyUSK5MSc
+Migrate databases easily with dbatools														https://www.youtube.com/watch?v=FofZIz8OgCg
+SQL Server and PowerShell made easier with dbatools: Practical Examples						https://octopus.com/blog/sql-server-powershell-dbatools
+Unlocking Database Automation with dbatools: Practical Use Cases and Real-World Insights	https://www.youtube.com/watch?v=Jls9JcrDS6M
 	
 -----------     POWERSHELL - SQL SERVER-----------
 
-		Automate Glenn Berry’s DMV Script with PowerShell												https://www.youtube.com/watch?v=RQuQjOrjx_U
-		Automate Operational Readiness and Validation Testing of SQL Server with PowerShell and Pester	https://www.youtube.com/watch?v=Ds1YO_Dpx0I
-		Getting Started with PowerShell 3.0 															https://learn.microsoft.com/en-us/shows/getstartedpowershell3/02
-		Hacking SQL Servers on Scale using PowerShell													https://www.youtube.com/watch?v=npoORzfP7rw
-		Managing SQL Server Containers with PowerShell													https://www.youtube.com/watch?v=M4qdFo1KXmg
-		Need to Speed Pragmatic Problem Solving with PowerShell											https://www.youtube.com/watch?v=1ajgIKg1zBk
-		PowerShell loves SSIS																			https://www.youtube.com/watch?v=tM4T9TCeZ_8
+Automate Glenn Berry’s DMV Script with PowerShell												https://www.youtube.com/watch?v=RQuQjOrjx_U
+Automate Operational Readiness and Validation Testing of SQL Server with PowerShell and Pester	https://www.youtube.com/watch?v=Ds1YO_Dpx0I
+Getting Started with PowerShell 3.0 															https://learn.microsoft.com/en-us/shows/getstartedpowershell3/02
+Hacking SQL Servers on Scale using PowerShell													https://www.youtube.com/watch?v=npoORzfP7rw
+Managing SQL Server Containers with PowerShell													https://www.youtube.com/watch?v=M4qdFo1KXmg
+Need to Speed Pragmatic Problem Solving with PowerShell											https://www.youtube.com/watch?v=1ajgIKg1zBk
+PowerShell loves SSIS																			https://www.youtube.com/watch?v=tM4T9TCeZ_8
+A Month of PowerShell - 																		https://blog.waynesheffield.com/wayne/a-month-of-powershell/
+-----------------------------------------------------------------------------------------
+		A Month of PowerShell – Day 1 (Getting Started)
+		A Month of PowerShell – Day 2 (Variables and Operators)
+		A Month of PowerShell – Day 3 (Security)
+		A Month of PowerShell – Day 4 (Scripting)
+		A Month of PowerShell – Day 5 (Scripting – Putting it together)
+		A Month of PowerShell – Day 6 (Exporting and Importing)
+		A Month of PowerShell – Day 7 (Script Input/Output)
+		A Month of PowerShell – Day 8 (Working with Snippets in the ISE)
+		A Month of PowerShell – Day 9 (Getting Started with SMO)
+		A Month of PowerShell – Day 10 (Navigating SMO collections)
+		A Month of PowerShell – Day 11 (SMO: Databases)
+		A Month of PowerShell – Day 12 (Logins, Users and Roles)
+		A Month of PowerShell – Day 13 (Databases: Adding Schemas, Tables and Indexes)
+		A Month of PowerShell – Day 14 (Databases: Altering Tables)
+		A Month of PowerShell – Day 15 (Databases: Adding Foreign Keys)
+		A Month of PowerShell – Day 16 (Databases: Triggers)
+		A Month of PowerShell – Day 17 (Databases: Views)
+		A Month of PowerShell – Day 18 (Databases: Stored Procedures)
+		A Month of PowerShell – Day 19 (Databases: Scalar Functions)
+		A Month of PowerShell – Day 20 (Databases: Table-Valued Functions)
+		A Month of PowerShell – Day 21 (Backups)
+		A Month of PowerShell – Day 22 (Restores)
+		A Month of PowerShell – Day 23 (JobServer: Alerts)
+		A Month of PowerShell – Day 24 (JobServer: Jobs)
+		A Month of PowerShell – Day 25 (Integrity Checks)
+		A Month of PowerShell – Day 26 (Changing Login Passwords)
+		A Month of PowerShell – Day 27 (Scripting SQL Objects)
+		A Month of PowerShell – Day 28 (Using Windows PowerShell Remoting)
 
-
+-----------------------------------------------------------------------------------------
