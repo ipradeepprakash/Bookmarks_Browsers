@@ -1,9 +1,10 @@
 ------DEVOPS- SQL SERVER---------
 
-	Building a near real time monitoring for SQL Server across Windows, Linux and containers				https://github.com/ava-orange-education/Ultimate-SQL-Server-and-Azure-SQL-for-Data-Management-and-Modernization/blob/main/Chapter%2008/1_Monitoring%20Solution%20for%20SQL%20Server.md
-	Get Started with Dev Containers in VS Code																                      https://www.youtube.com/watch?v=b1RavPr_878
-	Operational Validation of SQL Server at scale with PowerShell and Jenkins								        https://www.youtube.com/watch?v=4Oit-dt15LM
-	Visual Studio Toolbox Live - Using Docker Containers in Visual Studio									          https://www.youtube.com/watch?v=ZLBwnbbD0Zg
-	How to Use Ansible to Create SQL Server Databases														                    https://www.youtube.com/watch?v=QVNqYWbYwno
-	Azure Devops for Everyone | Start your DevOps journey													                  https://www.youtube.com/watch?v=Z2Nxipr6Xu0&list=PLgK9uIcbYj44AwKR6F8a1g-G5uGqqwzB2
-	collect memory data																						                                  https://github.com/sqlserver-parikh/SQLServer/blob/master/Collect%20Memory%20Data.sql
+Building a near real time monitoring for SQL Server across Windows, Linux and containers				https://github.com/ava-orange-education/Ultimate-SQL-Server-and-Azure-SQL-for-Data-Management-and-Modernization/blob/main/Chapter%2008/1_Monitoring%20Solution%20for%20SQL%20Server.md
+Get Started with Dev Containers in VS Code																https://www.youtube.com/watch?v=b1RavPr_878
+Operational Validation of SQL Server at scale with PowerShell and Jenkins								https://www.youtube.com/watch?v=4Oit-dt15LM
+Visual Studio Toolbox Live - Using Docker Containers in Visual Studio									https://www.youtube.com/watch?v=ZLBwnbbD0Zg
+How to Use Ansible to Create SQL Server Databases														https://www.youtube.com/watch?v=QVNqYWbYwno
+Azure Devops for Everyone | Start your DevOps journey													https://www.youtube.com/watch?v=Z2Nxipr6Xu0&list=PLgK9uIcbYj44AwKR6F8a1g-G5uGqqwzB2
+collect memory data																						https://github.com/sqlserver-parikh/SQLServer/blob/master/Collect%20Memory%20Data.sql
+Containers Continued! - Anthony E Nocentino 															https://www.youtube.com/watch?v=cW3CasHVBIA
